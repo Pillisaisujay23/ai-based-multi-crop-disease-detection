@@ -1,6 +1,6 @@
-# 🌾 CropSpectra - AI-Powered Crop Disease Detection System
+# 🌾  Multi Crop Disease Detection Using Machine learning And AI
 
-**CropSpectra** is an intelligent crop disease prediction system that uses **Deep Learning** and **Computer Vision** to detect diseases in crops like Tomato, Potato, and Bell Pepper.
+This is an intelligent crop disease prediction system that uses **Deep Learning** and **Computer Vision** to detect diseases in crops like Tomato, Potato, and Bell Pepper.
 
 ---
 
@@ -196,13 +196,6 @@ deactivate
 
 ---
 
-## 📧 Contact & Support
-
-📧 **Email:** cropspectra@gmail.com  
-🌍 **Website:** [CropSpectra](#)
-
----
-
 ## 🙏 Acknowledgments
 
 - PlantVillage Dataset
@@ -221,4 +214,4 @@ deactivate
 
 ---
 
-**© 2024 CropSpectra | Smart Vision for a Healthier Harvest 🌿**
+**© 2026 | Smart Vision for a Healthier Harvest 🌿**
